@@ -1,0 +1,35 @@
+body{
+	background-color: whitesmoke;
+}
+
+.box{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	display: inline-block;
+	margin-left: 50%;
+
+}
+.box1{
+	height: 100px;
+	width: 100px;
+	background-color: darkred;
+	margin-left: 20px;
+}
+.red{
+	background-color: red;
+	display: inline-block;
+	padding:40px;
+	margin: 20px;
+	color: white;
+}
+.t-cart{
+	
+	margin: 0px 50%;
+
+}
+
+table, tr, td, th{
+	text-align: center;
+	border: 1px solid black;
+}
